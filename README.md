@@ -16,7 +16,7 @@
 ![动态效果](https://github.com/jkafjhkjfhqlf/graph/blob/master/show/test-company---show3dTopo2.PNG)
 ![动态效果](https://github.com/jkafjhkjfhqlf/graph/blob/master/show/test-company---show3dTopo3.PNG)
 旧版：
-![动态效果](https://github.com/jkafjhkjfhqlfgraph/blob/master/show/test-company---show3dTopo-before.PNG)
+![动态效果](https://github.com/jkafjhkjfhqlf/graph/blob/master/show/test-company---show3dTopo-before.PNG)
 
 一些插件的尝试
 /testDracula
