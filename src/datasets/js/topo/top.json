@@ -1,0 +1,694 @@
+{
+    "code": 1,
+    "data": [
+        {
+            "addresses": [
+                {
+                    "subnetId": "Sc741b127eea4133ad1d592dc5376b4d",
+                    "vlan": "2199",
+                    "ip": "183.146.1.252",
+                    "subnetOsId": "92ebe258-e80a-41ea-8d02-e422cc566938",
+                    "cidr": "183.146.1.0/24",
+                    "id": "P77721b5a66b4c10a3a8f5ebd52a315d",
+                    "version": "4",
+                    "mac": "fa:16:3e:dd:6f:19"
+                }
+            ],
+            "root": 1,
+            "type": "TSW",
+            "id": "TW0c400d0cf1416eb05dd9b21a9d2248",
+            "join_node": [
+                "V1bae12a30c14e0c9ed0e8da1cb5bcae",
+                "V71723aedd6b4a57aa2361be38ace1be"
+            ]
+        },
+        {
+            "addresses": [
+                {
+                    "subnetId": "Sb786c981be64ffb8e8d162e91eefd3c",
+                    "vlan": "2205",
+                    "ip": "183.3.1.252",
+                    "subnetOsId": "0aedf18c-d3a5-4131-a441-eb71516b036a",
+                    "cidr": "183.3.1.0/24",
+                    "id": "P0e8d3072389421f971df8081c9e9410",
+                    "version": "4",
+                    "mac": "fa:16:3e:29:29:09"
+                },
+                {
+                    "subnetId": "Sc4c05048f6d42acac051667f05d73bd",
+                    "vlan": "2145",
+                    "ip": "183.4.1.252",
+                    "subnetOsId": "d81fba11-4e6a-4f95-a801-6a1d37db9abe",
+                    "cidr": "183.4.1.0/24",
+                    "id": "P424480405504624bc5566bc2ced9989",
+                    "version": "4",
+                    "mac": "fa:16:3e:c3:99:69"
+                },
+                {
+                    "subnetId": "Sa46a87cdd5c4931b3c0929299173eb8",
+                    "vlan": "2117",
+                    "ip": "183.8.1.252",
+                    "subnetOsId": "e67aa146-d7fe-471a-9926-4ea2d3d51958",
+                    "cidr": "183.8.1.0/24",
+                    "id": "P58edf8543a341ff979ea035b1da81d6",
+                    "version": "4",
+                    "mac": "fa:16:3e:66:b0:17"
+                },
+                {
+                    "subnetId": "Saa97ccfe59a414aaf5ba6826a0a5621",
+                    "vlan": "2068",
+                    "ip": "183.0.1.252",
+                    "subnetOsId": "996fe8b5-1edc-4a34-aad1-3c569ca0f930",
+                    "cidr": "183.0.1.0/24",
+                    "id": "P60fc57c447e41698aacc98fa7e99971",
+                    "version": "4",
+                    "mac": "fa:16:3e:0a:60:a2"
+                },
+                {
+                    "subnetId": "Sdb233279ff04542ab1d9c668c8240aa",
+                    "vlan": "2184",
+                    "ip": "183.9.1.252",
+                    "subnetOsId": "9db3133e-4527-4b54-b4f6-813204fa6b87",
+                    "cidr": "183.9.1.0/24",
+                    "id": "P62ad53e69ff40f3881031b573ef95d6",
+                    "version": "4",
+                    "mac": "fa:16:3e:5b:d2:a7"
+                },
+                {
+                    "subnetId": "S0bcf55494894f7f969520bed461b517",
+                    "vlan": "2063",
+                    "ip": "183.2.1.2",
+                    "subnetOsId": "5caa5bdb-e6ee-4480-b295-2c14fed00c9d",
+                    "cidr": "183.2.1.0/24",
+                    "id": "P6cf488559d04fb6af83bfe8d1ab45e7",
+                    "version": "4",
+                    "mac": "fa:16:3e:c7:e4:80"
+                },
+                {
+                    "subnetId": "Sf73043960e549d8be734ee7a5dcfdf6",
+                    "vlan": "2215",
+                    "ip": "183.5.1.252",
+                    "subnetOsId": "3832a25d-4301-4370-a6a4-b42775fc66dc",
+                    "cidr": "183.5.1.0/24",
+                    "id": "P85c472017234f539046d43ad0f0ac77",
+                    "version": "4",
+                    "mac": "fa:16:3e:ea:22:3d"
+                },
+                {
+                    "subnetId": "S7aebe206cfc41f9a988f2d9097dd37d",
+                    "vlan": "2190",
+                    "ip": "183.6.1.252",
+                    "subnetOsId": "70f51fa5-509f-4b80-810d-e2cf3c4cd733",
+                    "cidr": "183.6.1.0/24",
+                    "id": "Pb40aba326ce4d50b099d702ccf5e983",
+                    "version": "4",
+                    "mac": "fa:16:3e:0c:27:5a"
+                },
+                {
+                    "subnetId": "Sb112a31a60d4f7a889ebe76e20f7604",
+                    "vlan": "2115",
+                    "ip": "183.7.1.252",
+                    "subnetOsId": "f7d94e3f-98e6-40dc-81b2-4d4ed2b93460",
+                    "cidr": "183.7.1.0/24",
+                    "id": "Pf48f59e3aee4c40a6fbbd04a6c00084",
+                    "version": "4",
+                    "mac": "fa:16:3e:8c:1e:a6"
+                },
+                {
+                    "subnetId": "Sc741b127eea4133ad1d592dc5376b4d",
+                    "vlan": "2199",
+                    "ip": "183.146.1.251",
+                    "subnetOsId": "92ebe258-e80a-41ea-8d02-e422cc566938",
+                    "cidr": "183.146.1.0/24",
+                    "id": "Pf4946747f1e4d53a76cce87919c552b",
+                    "version": "4",
+                    "mac": "fa:16:3e:9d:80:39"
+                },
+                {
+                    "subnetId": "S0bb1138ba9b4fee8c0c01d45922add7",
+                    "vlan": "2161",
+                    "ip": "183.146.3.252",
+                    "subnetOsId": "751e0c1e-f3af-405e-b557-e3052d4c3ae4",
+                    "cidr": "183.146.3.0/24",
+                    "id": "Pf5ae45b0b1446a0985fa63218630647",
+                    "version": "4",
+                    "mac": "fa:16:3e:bd:0b:20"
+                }
+            ],
+            "imageId": "163ef572-c4a9-435a-8e16-030310fc00ca",
+            "sysType": "linux",
+            "root": 1,
+            "type": "DRT",
+            "id": "V1bae12a30c14e0c9ed0e8da1cb5bcae",
+            "join_node": [
+                "V7f671faecaf4252905aaca22e407d63",
+                "W8f0949ee8da4fc58028f1a87824696a",
+                "W9fe9221edcf4ad1ab6bc4d8b7d8397c",
+                "W59f30219f36481d870610120b13c416",
+                "W4b42933b8814e499fcf49afc01158f9",
+                "W3f1d767f3ea44ea93e2a3622bad29a6",
+                "W1bd058da9b64d3db24f690a52f2a799",
+                "W0a5e85ec20d4b6bbfe30447ed95e66c",
+                "TW0c400d0cf1416eb05dd9b21a9d2248",
+                "Wb4cfe352fef4f3fa0a4940b57750b3e",
+                "W34074a019f847d292b0e55cb2e829bb"
+            ]
+        },
+        {
+            "addresses": [
+                {
+                    "subnetId": "Sc741b127eea4133ad1d592dc5376b4d",
+                    "vlan": "2199",
+                    "ip": "183.146.1.3",
+                    "subnetOsId": "92ebe258-e80a-41ea-8d02-e422cc566938",
+                    "cidr": "183.146.1.0/24",
+                    "id": "P4b959afffae4fde87796bd6c89e2190",
+                    "version": "4",
+                    "mac": "fa:16:3e:33:66:3b"
+                }
+            ],
+            "imageId": "c1174c28-9d73-4c01-a61a-7a19b34ed17a",
+            "sysType": "windows",
+            "root": 1,
+            "type": "SERVER",
+            "id": "V71723aedd6b4a57aa2361be38ace1be",
+            "join_node": [
+                "TW0c400d0cf1416eb05dd9b21a9d2248"
+            ]
+        },
+        {
+            "addresses": [
+                {
+                    "subnetId": "S683ab1f32b3454babe0deb51238e1a7",
+                    "vlan": "2134",
+                    "ip": "183.1.1.252",
+                    "subnetOsId": "8bc316a6-5eb4-49fb-b99a-9d9905516946",
+                    "cidr": "183.1.1.0/24",
+                    "id": "Pb2cf417826645ee984215f39bf70256",
+                    "version": "4",
+                    "mac": "fa:16:3e:d6:56:09"
+                },
+                {
+                    "subnetId": "S0bcf55494894f7f969520bed461b517",
+                    "vlan": "2063",
+                    "ip": "183.2.1.1",
+                    "subnetOsId": "5caa5bdb-e6ee-4480-b295-2c14fed00c9d",
+                    "cidr": "183.2.1.0/24",
+                    "id": "Pe2ddb1a8e4445c182e958cace30b8c5",
+                    "version": "4",
+                    "mac": "fa:16:3e:5d:f1:27"
+                }
+            ],
+            "imageId": "163ef572-c4a9-435a-8e16-030310fc00ca",
+            "sysType": "linux",
+            "root": 1,
+            "type": "DRT",
+            "id": "V7f671faecaf4252905aaca22e407d63",
+            "join_node": [
+                "V1bae12a30c14e0c9ed0e8da1cb5bcae",
+                "Wd89dc42564d4aebbb85958fc20ae23a"
+            ]
+        },
+        {
+            "addresses": [],
+            "root": 1,
+            "type": "SW",
+            "id": "W8f0949ee8da4fc58028f1a87824696a",
+            "join_node": [
+                "V1bae12a30c14e0c9ed0e8da1cb5bcae"
+            ]
+        },
+        {
+            "addresses": [],
+            "root": 1,
+            "type": "SW",
+            "id": "W9fe9221edcf4ad1ab6bc4d8b7d8397c",
+            "join_node": [
+                "V1bae12a30c14e0c9ed0e8da1cb5bcae",
+                "Va96170cf1fb48a6a3ed4777e95737eb"
+            ]
+        },
+        {
+            "addresses": [],
+            "root": 1,
+            "type": "SW",
+            "id": "W59f30219f36481d870610120b13c416",
+            "join_node": [
+                "V1bae12a30c14e0c9ed0e8da1cb5bcae",
+                "V237681874b048248a8d7949a1fdedee"
+            ]
+        },
+        {
+            "addresses": [],
+            "root": 1,
+            "type": "SW",
+            "id": "W4b42933b8814e499fcf49afc01158f9",
+            "join_node": [
+                "V2d00f4946b24de9838d7352ea21bc09",
+                "V1bae12a30c14e0c9ed0e8da1cb5bcae",
+                "V3d9d2903e46457c81a99ee66eeb6ac6",
+                "V626dd0c71684404baea6ad623ece198",
+                "V157a8d1f0774383870a02b2a6da5f8c",
+                "Ved8ea866a4947ecb6b9a85336d9cefc",
+                "Vddc05e28ec94ebb9608082c079c4a70",
+                "Veb5a24e4f204fefa9fc6c3417607aa3"
+            ]
+        },
+        {
+            "addresses": [],
+            "root": 1,
+            "type": "SW",
+            "id": "W3f1d767f3ea44ea93e2a3622bad29a6",
+            "join_node": [
+                "V1bae12a30c14e0c9ed0e8da1cb5bcae",
+                "V8325ff0b8b84bc09f8977fd5be30dfe"
+            ]
+        },
+        {
+            "addresses": [],
+            "root": 1,
+            "type": "SW",
+            "id": "W1bd058da9b64d3db24f690a52f2a799",
+            "join_node": [
+                "V4c456fbdf3b43e6bcbeb6b11a278710",
+                "V1bae12a30c14e0c9ed0e8da1cb5bcae"
+            ]
+        },
+        {
+            "addresses": [],
+            "root": 1,
+            "type": "SW",
+            "id": "W0a5e85ec20d4b6bbfe30447ed95e66c",
+            "join_node": [
+                "V87b746aa4054caeaf760d0cd8500e0c",
+                "V1bae12a30c14e0c9ed0e8da1cb5bcae"
+            ]
+        },
+        {
+            "addresses": [],
+            "root": 1,
+            "type": "SW",
+            "id": "Wb4cfe352fef4f3fa0a4940b57750b3e",
+            "join_node": [
+                "V1bae12a30c14e0c9ed0e8da1cb5bcae",
+                "Vfba618a03534b6f8a5d0495b64a96f7"
+            ]
+        },
+        {
+            "addresses": [],
+            "root": 1,
+            "type": "SW",
+            "id": "W34074a019f847d292b0e55cb2e829bb",
+            "join_node": [
+                "Vcd9955671004c10bdfb3bd70cb7958e",
+                "V1bae12a30c14e0c9ed0e8da1cb5bcae"
+            ]
+        },
+        {
+            "addresses": [
+                {
+                    "subnetId": "S0bb1138ba9b4fee8c0c01d45922add7",
+                    "vlan": "2161",
+                    "ip": "183.146.3.3",
+                    "subnetOsId": "751e0c1e-f3af-405e-b557-e3052d4c3ae4",
+                    "cidr": "183.146.3.0/24",
+                    "id": "P3db0bc10a7c498bbf073feb0b53a5d0",
+                    "version": "4",
+                    "mac": "fa:16:3e:2d:e9:b4"
+                }
+            ],
+            "imageId": "4aae85f0-81b0-46a5-97be-8974df022f8a",
+            "sysType": "windows",
+            "root": 1,
+            "type": "CLIENT",
+            "id": "V157a8d1f0774383870a02b2a6da5f8c",
+            "join_node": [
+                "W4b42933b8814e499fcf49afc01158f9"
+            ]
+        },
+        {
+            "addresses": [
+                {
+                    "subnetId": "Sdb233279ff04542ab1d9c668c8240aa",
+                    "vlan": "2184",
+                    "ip": "183.9.1.1",
+                    "subnetOsId": "9db3133e-4527-4b54-b4f6-813204fa6b87",
+                    "cidr": "183.9.1.0/24",
+                    "id": "P98c342665a74f47904ca54214b6ab28",
+                    "version": "4",
+                    "mac": "fa:16:3e:43:45:8b"
+                }
+            ],
+            "imageId": "c1174c28-9d73-4c01-a61a-7a19b34ed17a",
+            "sysType": "windows",
+            "root": 1,
+            "type": "CLIENT",
+            "id": "V237681874b048248a8d7949a1fdedee",
+            "join_node": [
+                "W59f30219f36481d870610120b13c416"
+            ]
+        },
+        {
+            "addresses": [
+                {
+                    "subnetId": "S0bb1138ba9b4fee8c0c01d45922add7",
+                    "vlan": "2161",
+                    "ip": "183.146.3.5",
+                    "subnetOsId": "751e0c1e-f3af-405e-b557-e3052d4c3ae4",
+                    "cidr": "183.146.3.0/24",
+                    "id": "P73c5ec98fe74bfcb43d34f19e34adfe",
+                    "version": "4",
+                    "mac": "fa:16:3e:ba:5e:90"
+                }
+            ],
+            "imageId": "c1174c28-9d73-4c01-a61a-7a19b34ed17a",
+            "sysType": "windows",
+            "root": 1,
+            "type": "CLIENT",
+            "id": "V2d00f4946b24de9838d7352ea21bc09",
+            "join_node": [
+                "W4b42933b8814e499fcf49afc01158f9"
+            ]
+        },
+        {
+            "addresses": [
+                {
+                    "subnetId": "S0bb1138ba9b4fee8c0c01d45922add7",
+                    "vlan": "2161",
+                    "ip": "183.146.3.4",
+                    "subnetOsId": "751e0c1e-f3af-405e-b557-e3052d4c3ae4",
+                    "cidr": "183.146.3.0/24",
+                    "id": "P54244449db34673b505ba1e1bfe06f9",
+                    "version": "4",
+                    "mac": "fa:16:3e:2b:ed:3b"
+                }
+            ],
+            "imageId": "4b46d128-7a8f-4319-85c5-cde586289c13",
+            "sysType": "windows",
+            "root": 1,
+            "type": "CLIENT",
+            "id": "V3d9d2903e46457c81a99ee66eeb6ac6",
+            "join_node": [
+                "W4b42933b8814e499fcf49afc01158f9"
+            ]
+        },
+        {
+            "addresses": [
+                {
+                    "subnetId": "Sb112a31a60d4f7a889ebe76e20f7604",
+                    "vlan": "2115",
+                    "ip": "183.7.1.1",
+                    "subnetOsId": "f7d94e3f-98e6-40dc-81b2-4d4ed2b93460",
+                    "cidr": "183.7.1.0/24",
+                    "id": "P78f065764f94ab0bd2b7fabbfd93e22",
+                    "version": "4",
+                    "mac": "fa:16:3e:09:75:5a"
+                }
+            ],
+            "imageId": "4b46d128-7a8f-4319-85c5-cde586289c13",
+            "sysType": "windows",
+            "root": 1,
+            "type": "CLIENT",
+            "id": "V4c456fbdf3b43e6bcbeb6b11a278710",
+            "join_node": [
+                "W1bd058da9b64d3db24f690a52f2a799"
+            ]
+        },
+        {
+            "addresses": [
+                {
+                    "subnetId": "S683ab1f32b3454babe0deb51238e1a7",
+                    "vlan": "2134",
+                    "ip": "183.1.1.1",
+                    "subnetOsId": "8bc316a6-5eb4-49fb-b99a-9d9905516946",
+                    "cidr": "183.1.1.0/24",
+                    "id": "P27cfee79e8f4e529f58b5a2bb402b7d",
+                    "version": "4",
+                    "mac": "fa:16:3e:92:1d:b0"
+                }
+            ],
+            "imageId": "0431653e-8f65-49bd-946b-e0dc6a3f20e2",
+            "sysType": "linux",
+            "root": 1,
+            "type": "CLIENT",
+            "id": "V55c139400b64541a43a6192a9812663",
+            "join_node": [
+                "Wd89dc42564d4aebbb85958fc20ae23a"
+            ]
+        },
+        {
+            "addresses": [
+                {
+                    "subnetId": "S0bb1138ba9b4fee8c0c01d45922add7",
+                    "vlan": "2161",
+                    "ip": "183.146.3.1",
+                    "subnetOsId": "751e0c1e-f3af-405e-b557-e3052d4c3ae4",
+                    "cidr": "183.146.3.0/24",
+                    "id": "P239c1f1fe404e28bba50306c47cb9a7",
+                    "version": "4",
+                    "mac": "fa:16:3e:bf:f4:3a"
+                }
+            ],
+            "imageId": "4aae85f0-81b0-46a5-97be-8974df022f8a",
+            "sysType": "windows",
+            "root": 1,
+            "type": "CLIENT",
+            "id": "V626dd0c71684404baea6ad623ece198",
+            "join_node": [
+                "W4b42933b8814e499fcf49afc01158f9"
+            ]
+        },
+        {
+            "addresses": [
+                {
+                    "subnetId": "S683ab1f32b3454babe0deb51238e1a7",
+                    "vlan": "2134",
+                    "ip": "183.1.1.3",
+                    "subnetOsId": "8bc316a6-5eb4-49fb-b99a-9d9905516946",
+                    "cidr": "183.1.1.0/24",
+                    "id": "P41fd809bdd54c7fb99b008657009654",
+                    "version": "4",
+                    "mac": "fa:16:3e:17:02:df"
+                }
+            ],
+            "imageId": "c1174c28-9d73-4c01-a61a-7a19b34ed17a",
+            "sysType": "windows",
+            "root": 1,
+            "type": "CLIENT",
+            "id": "V744e5dee74c48e4bed022aee60a96d7",
+            "join_node": [
+                "Wd89dc42564d4aebbb85958fc20ae23a"
+            ]
+        },
+        {
+            "addresses": [
+                {
+                    "subnetId": "Saa97ccfe59a414aaf5ba6826a0a5621",
+                    "vlan": "2068",
+                    "ip": "183.0.1.1",
+                    "subnetOsId": "996fe8b5-1edc-4a34-aad1-3c569ca0f930",
+                    "cidr": "183.0.1.0/24",
+                    "id": "P8a681ab6f9e44379003d75081ed5369",
+                    "version": "4",
+                    "mac": "fa:16:3e:7b:87:15"
+                }
+            ],
+            "imageId": "c1174c28-9d73-4c01-a61a-7a19b34ed17a",
+            "sysType": "windows",
+            "root": 1,
+            "type": "CLIENT",
+            "id": "V8325ff0b8b84bc09f8977fd5be30dfe",
+            "join_node": [
+                "W3f1d767f3ea44ea93e2a3622bad29a6"
+            ]
+        },
+        {
+            "addresses": [
+                {
+                    "subnetId": "Sa46a87cdd5c4931b3c0929299173eb8",
+                    "vlan": "2117",
+                    "ip": "183.8.1.1",
+                    "subnetOsId": "e67aa146-d7fe-471a-9926-4ea2d3d51958",
+                    "cidr": "183.8.1.0/24",
+                    "id": "P868f31430544c9893bdeb1ffd207533",
+                    "version": "4",
+                    "mac": "fa:16:3e:24:15:08"
+                }
+            ],
+            "imageId": "c1174c28-9d73-4c01-a61a-7a19b34ed17a",
+            "sysType": "windows",
+            "root": 1,
+            "type": "CLIENT",
+            "id": "V87b746aa4054caeaf760d0cd8500e0c",
+            "join_node": [
+                "W0a5e85ec20d4b6bbfe30447ed95e66c"
+            ]
+        },
+        {
+            "addresses": [
+                {
+                    "subnetId": "S7aebe206cfc41f9a988f2d9097dd37d",
+                    "vlan": "2190",
+                    "ip": "183.6.1.1",
+                    "subnetOsId": "70f51fa5-509f-4b80-810d-e2cf3c4cd733",
+                    "cidr": "183.6.1.0/24",
+                    "id": "P2dda880931648caa72252b3f5b88c80",
+                    "version": "4",
+                    "mac": "fa:16:3e:94:26:3d"
+                }
+            ],
+            "imageId": "4b46d128-7a8f-4319-85c5-cde586289c13",
+            "sysType": "windows",
+            "root": 1,
+            "type": "CLIENT",
+            "id": "Va96170cf1fb48a6a3ed4777e95737eb",
+            "join_node": [
+                "W9fe9221edcf4ad1ab6bc4d8b7d8397c"
+            ]
+        },
+        {
+            "addresses": [
+                {
+                    "subnetId": "Sc4c05048f6d42acac051667f05d73bd",
+                    "vlan": "2145",
+                    "ip": "183.4.1.1",
+                    "subnetOsId": "d81fba11-4e6a-4f95-a801-6a1d37db9abe",
+                    "cidr": "183.4.1.0/24",
+                    "id": "P5af850a90c14a5799becfbb54c01e5e",
+                    "version": "4",
+                    "mac": "fa:16:3e:89:6c:fb"
+                }
+            ],
+            "imageId": "4b46d128-7a8f-4319-85c5-cde586289c13",
+            "sysType": "windows",
+            "root": 1,
+            "type": "CLIENT",
+            "id": "Vcd9955671004c10bdfb3bd70cb7958e",
+            "join_node": [
+                "W34074a019f847d292b0e55cb2e829bb"
+            ]
+        },
+        {
+            "addresses": [
+                {
+                    "subnetId": "S683ab1f32b3454babe0deb51238e1a7",
+                    "vlan": "2134",
+                    "ip": "183.1.1.4",
+                    "subnetOsId": "8bc316a6-5eb4-49fb-b99a-9d9905516946",
+                    "cidr": "183.1.1.0/24",
+                    "id": "Pe6f946c38ed4c7ab71cb6a440fe03ad",
+                    "version": "4",
+                    "mac": "fa:16:3e:4c:87:01"
+                }
+            ],
+            "imageId": "4da5e7d9-7f1f-45f5-a443-cc181c645d8f",
+            "sysType": "linux",
+            "root": 1,
+            "type": "CLIENT",
+            "id": "Vd4a2af162484810bb3cc54c32fbd513",
+            "join_node": [
+                "Wd89dc42564d4aebbb85958fc20ae23a"
+            ]
+        },
+        {
+            "addresses": [
+                {
+                    "subnetId": "S0bb1138ba9b4fee8c0c01d45922add7",
+                    "vlan": "2161",
+                    "ip": "183.146.3.2",
+                    "subnetOsId": "751e0c1e-f3af-405e-b557-e3052d4c3ae4",
+                    "cidr": "183.146.3.0/24",
+                    "id": "Pfe1da2ecd0f42fe9a745bb74aa49d50",
+                    "version": "4",
+                    "mac": "fa:16:3e:c8:f9:a3"
+                }
+            ],
+            "imageId": "c1174c28-9d73-4c01-a61a-7a19b34ed17a",
+            "sysType": "windows",
+            "root": 1,
+            "type": "CLIENT",
+            "id": "Vddc05e28ec94ebb9608082c079c4a70",
+            "join_node": [
+                "W4b42933b8814e499fcf49afc01158f9"
+            ]
+        },
+        {
+            "addresses": [
+                {
+                    "subnetId": "S0bb1138ba9b4fee8c0c01d45922add7",
+                    "vlan": "2161",
+                    "ip": "183.146.3.9",
+                    "subnetOsId": "751e0c1e-f3af-405e-b557-e3052d4c3ae4",
+                    "cidr": "183.146.3.0/24",
+                    "id": "P3bbb85848694ce4a24a5470bbaed335",
+                    "version": "4",
+                    "mac": "fa:16:3e:3c:86:92"
+                }
+            ],
+            "imageId": "4b46d128-7a8f-4319-85c5-cde586289c13",
+            "sysType": "windows",
+            "root": 1,
+            "type": "CLIENT",
+            "id": "Veb5a24e4f204fefa9fc6c3417607aa3",
+            "join_node": [
+                "W4b42933b8814e499fcf49afc01158f9"
+            ]
+        },
+        {
+            "addresses": [
+                {
+                    "subnetId": "S0bb1138ba9b4fee8c0c01d45922add7",
+                    "vlan": "2161",
+                    "ip": "183.146.3.8",
+                    "subnetOsId": "751e0c1e-f3af-405e-b557-e3052d4c3ae4",
+                    "cidr": "183.146.3.0/24",
+                    "id": "P7e4d399874541379f969edc1caf25f9",
+                    "version": "4",
+                    "mac": "fa:16:3e:2d:d3:1e"
+                }
+            ],
+            "imageId": "a27fc8c8-12fd-4e1b-90c8-adc6238b8a8e",
+            "sysType": "windows",
+            "root": 1,
+            "type": "CLIENT",
+            "id": "Ved8ea866a4947ecb6b9a85336d9cefc",
+            "join_node": [
+                "W4b42933b8814e499fcf49afc01158f9"
+            ]
+        },
+        {
+            "addresses": [
+                {
+                    "subnetId": "Sb786c981be64ffb8e8d162e91eefd3c",
+                    "vlan": "2205",
+                    "ip": "183.3.1.1",
+                    "subnetOsId": "0aedf18c-d3a5-4131-a441-eb71516b036a",
+                    "cidr": "183.3.1.0/24",
+                    "id": "P8c42a49bb3a45fd98b5e84cc800e72e",
+                    "version": "4",
+                    "mac": "fa:16:3e:06:3d:eb"
+                }
+            ],
+            "imageId": "c1174c28-9d73-4c01-a61a-7a19b34ed17a",
+            "sysType": "windows",
+            "root": 1,
+            "type": "CLIENT",
+            "id": "Vfba618a03534b6f8a5d0495b64a96f7",
+            "join_node": [
+                "Wb4cfe352fef4f3fa0a4940b57750b3e"
+            ]
+        },
+        {
+            "addresses": [],
+            "root": 1,
+            "type": "SW",
+            "id": "Wd89dc42564d4aebbb85958fc20ae23a",
+            "join_node": [
+                "V7f671faecaf4252905aaca22e407d63",
+                "V55c139400b64541a43a6192a9812663",
+                "Vd4a2af162484810bb3cc54c32fbd513",
+                "V744e5dee74c48e4bed022aee60a96d7"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "nodes": [
+        {
+            "id": "APT5",
+            "name": "APT5",
+            "type": "ca"
+        },
+        {
+            "id": "BA22",
+            "name": "BA22",
+            "type": "ba"
+        },
+        {
+            "id": "BA23",
+            "name": "BA23",
+            "type": "ba"
+        },
+        {
+            "id": "BA24",
+            "name": "BA24",
+            "type": "ba"
+        },
+        {
+            "id": "BA25",
+            "name": "BA25",
+            "type": "ba"
+        },
+        {
+            "id": "ae109",
+            "name": "ae109",
+            "type": "ae"
+        },
+        {
+            "id": "ae115",
+            "name": "ae115",
+            "type": "ae"
+        },
+        {
+            "id": "ae119",
+            "name": "ae119",
+            "type": "ae"
+        },
+        {
+            "id": "ae123",
+            "name": "ae123",
+            "type": "ae"
+        }
+    ],
+    "links": [
+        {
+            "id": "APT5:BA22",
+            "src": "APT5",
+            "dst": "BA22"
+        },
+        {
+            "id": "BA22:BA23",
+            "src": "BA22",
+            "dst": "BA23"
+        },
+        {
+            "id": "BA23:BA24",
+            "src": "BA23",
+            "dst": "BA24"
+        },
+        {
+            "id": "BA24:BA25",
+            "src": "BA24",
+            "dst": "BA25"
+        },
+        {
+            "id": "BA22:ae109",
+            "src": "BA22",
+            "dst": "ae109"
+        },
+        {
+            "id": "BA23:ae115",
+            "src": "BA23",
+            "dst": "ae115"
+        },
+        {
+            "id": "BA24:ae119",
+            "src": "BA24",
+            "dst": "ae119"
+        },
+        {
+            "id": "BA25:ae123",
+            "src": "BA25",
+            "dst": "ae123"
+        }
+    ]
+}

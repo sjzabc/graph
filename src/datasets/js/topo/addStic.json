@@ -1,0 +1,54 @@
+{
+    "nodes": [
+        {
+            "id": "TW0c400d0cf1416eb05dd9b21a9d2248",
+            "type": "TSW"
+        }, {
+            "id": "V157a8d1f0774383870a02b2a6da5f8c",
+            "type": "CLIENT"
+        }, {
+            "id": "V1bae12a30c14e0c9ed0e8da1cb5bcae",
+            "type": "DRT"
+        }, {
+            "id": "V237681874b048248a8d7949a1fdedee",
+            "type": "CLIENT"
+        }, {
+            "id": "test",
+            "type": "SW"
+        }, {
+            "id": "TOPO",
+            "type": "SERVER"
+        }
+    ],
+    "links": [
+        {
+            "id": "TW0c400d0cf1416eb05dd9b21a9d2248:V1bae12a30c14e0c9ed0e8da1cb5bcae",
+            "source": "TW0c400d0cf1416eb05dd9b21a9d2248",
+            "target": "V1bae12a30c14e0c9ed0e8da1cb5bcae"
+        }, {
+            "id": "TW0c400d0cf1416eb05dd9b21a9d2248:V71723aedd6b4a57aa2361be38ace1be",
+            "source": "TW0c400d0cf1416eb05dd9b21a9d2248",
+            "target": "V71723aedd6b4a57aa2361be38ace1be"
+        }, {
+            "id": "V157a8d1f0774383870a02b2a6da5f8c:W4b42933b8814e499fcf49afc01158f9",
+            "source": "V157a8d1f0774383870a02b2a6da5f8c",
+            "target": "W4b42933b8814e499fcf49afc01158f9"
+        }, {
+            "id": "V1bae12a30c14e0c9ed0e8da1cb5bcae:V7f671faecaf4252905aaca22e407d63",
+            "source": "V1bae12a30c14e0c9ed0e8da1cb5bcae",
+            "target": "V7f671faecaf4252905aaca22e407d63"
+        }, {
+            "id": "test:V7f671faecaf4252905aaca22e407d63",
+            "source": "test",
+            "target": "V7f671faecaf4252905aaca22e407d63"
+        }, {
+            "id": "V1bae12a30c14e0c9ed0e8da1cb5bcae:test",
+            "source": "V1bae12a30c14e0c9ed0e8da1cb5bcae",
+            "target": "test"
+        }, {
+            "id": "TW0c400d0cf1416eb05dd9b21a9d2248:TOPO",
+            "source": "TW0c400d0cf1416eb05dd9b21a9d2248",
+            "target": "TOPO"
+        }
+    ]
+}
