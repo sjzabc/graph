@@ -9,7 +9,7 @@
 ![动态效果](https://github.com/jkafjhkjfhqlf/graph/blob/master/show/test-company---topo-before2.PNG)
 
 /staticTopo：自动布局无力可拖动拓扑图，可保存位置，增加数据
-![自动布局无力可拖动拓扑图](https://github.com/jkafjhkjfhqlf/graph/tree/master/show/test-company---staticTopo.PNG)
+![自动布局无力可拖动拓扑图](https://github.com/jkafjhkjfhqlf/graph/blob/master/show/test-company---staticTopo.PNG)
 
 /show3dTopo：效果同拓扑，但性能较差，闪烁方式不同
 ![3d力导图](https://github.com/jkafjhkjfhqlf/graph/blob/master/show/test-company---show3dTopo.PNG)
