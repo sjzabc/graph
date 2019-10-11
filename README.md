@@ -2,6 +2,7 @@
 ### 主要为力导图拓扑图可视化
 ### vue环境搭建
 npm run install
+
 npm run serve
 
 /topo:  2d仿3d力导图效果，性能相较3d更好，有发送数据并闪烁获得数据
